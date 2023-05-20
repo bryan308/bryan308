@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-I'm Cedric Angulo, a Senior High School student from Nueva Ecija, Philippines.
+I'm **Cedric Angulo**, a Senior High School student from **Nueva Ecija, Philippines**.
 
 🌱 I'm currently focused on learning JavaScript.
 
@@ -13,14 +13,14 @@ Feel free to explore my repositories and get in touch with me.
 - Facebook: [Angulo Cedric](https://www.facebook.com/bryan.18.hp)
 
 ## Education
- 2022 - Current
+ **2022 - Current**
 - [Santa Rosa National High School](https://www.facebook.com/profile.php?id=100064118198317)
 
- 2021 - 2022
+ **2021 - 2022**
 - [Zambales National High School](https://www.facebook.com/ZambalesNationalHighSchool)
 
 
- 2019 - 2020
+ **2019 - 2020**
 - [Locloc National High School](https://www.facebook.com/snhs.extension)
 
 <!--
