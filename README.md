@@ -2,7 +2,7 @@
 
 I'm **Cedric Angulo**, a Senior High School student from **Nueva Ecija, Philippines**.
 
-🌱 I'm currently focused on learning JavaScript.
+🌱 I'm currently focused on learning JavaScript and PHP.
 
 Feel free to explore my repositories and get in touch with me.
 
