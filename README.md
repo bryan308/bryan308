@@ -13,7 +13,9 @@ Feel free to explore my repositories and get in touch with me.
 - Facebook: [Angulo Cedric](https://www.facebook.com/bryan.18.hp)
 
 ## Education
- **2022 - Current**
+ **Current - 2024**
+- [Nueva Ecija University of Science and Technology](https://neust.edu.ph/)
+ **2022 - 2023**
 - [Santa Rosa National High School](https://www.facebook.com/profile.php?id=100064118198317)
 
  **2021 - 2022**
