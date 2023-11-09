@@ -14,7 +14,7 @@ Feel free to explore my repositories and get in touch with me.
 
 ## Education
 
- **Current - 2024**
+ **2023 - Present**
 - [Nueva Ecija University of Science and Technology](https://neust.edu.ph/)
 
  **2022 - 2023**
