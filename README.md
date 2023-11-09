@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-I'm **Cedric Angulo**, a Senior High School student from **Nueva Ecija, Philippines**.
+I'm **Cedric Angulo**, a 1st Year BSIT student from **Nueva Ecija, Philippines**.
 
 🌱 I'm currently focused on learning JavaScript and PHP.
 
