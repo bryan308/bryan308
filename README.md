@@ -7,13 +7,13 @@ I'm **Cedric Angulo**, a freshmen BSIT student from **Nueva Ecija, PH**.
 ### Socials:
 
 <a href="https://linkedin.com/in/cedric-angulo-2632ab256"><img src="https://img.shields.io/badge/Cedric Angulo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.facebook.com/bryan.19.hp"><img src="https://img.shields.io/badge/Cedric Angulo-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.facebook.com/bryan.19.hp"><img src="https://img.shields.io/badge/Angulo Cedric-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://m.me/bryan.19.hp"><img src="https://img.shields.io/badge/Angulo Cedric-1877F2?style=for-the-badge&logo=messenger&logoColor=white"></a>
 
 ### Current Status:
 
-- 💼 Freshmen BSIT
-- 🌱 Newbie in Web Development.
+- 💼 Freshmen BSIT in <a href="neust.edu.ph">NEUST</a>
+- 🌱 Newbie in Web Development
 
 -------------------------------------------
 
