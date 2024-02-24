@@ -10,6 +10,10 @@ I'm **Cedric Angulo**, a freshmen BSIT student from **Nueva Ecija, PH**.
 <a href="https://www.facebook.com/bryan.19.hp"><img src="https://img.shields.io/badge/Angulo Cedric-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://m.me/bryan.19.hp"><img src="https://img.shields.io/badge/Angulo Cedric-1877F2?style=for-the-badge&logo=messenger&logoColor=white"></a>
 
+-------------------------------------------
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> When I'm running out of ideas, I just do typing in monkeytype.
+
 ### Current Status:
 
 - 💼 Freshmen BSIT in <a href="https://neust.edu.ph/" target="_blank">NEUST</a>
