@@ -12,7 +12,7 @@ I'm **Cedric Angulo**, a freshmen BSIT student from **Nueva Ecija, PH**.
 
 ### Current Status:
 
-- 💼 Freshmen BSIT in <a href="neust.edu.ph">NEUST</a>
+- 💼 Freshmen BSIT in <a href="https://neust.edu.ph/" target="_blank">NEUST</a>
 - 🌱 Newbie in Web Development
 
 -------------------------------------------
