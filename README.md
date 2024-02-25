@@ -14,7 +14,7 @@ I'm **Cedric Angulo**, a freshmen BSIT student from **Nueva Ecija, PH**.
 
 -------------------------------------------
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> When I'm running out of ideas, I just do typing in monkeytype.
+When I run out of ideas, I just practice typing on MonkeyType<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### Current Status:
 
