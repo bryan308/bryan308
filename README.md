@@ -25,7 +25,7 @@ When I run out of ideas, I just practice typing on MonkeyType<img src="https://m
 
 ### Achievement 🏆:
 
-- Champion in Technoday 2024 Web Development Competition
+- Champion in Technoday 2024 Web Development Competition (yun lang)
 
 -------------------------------------------
 
