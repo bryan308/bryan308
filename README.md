@@ -18,7 +18,7 @@ When I run out of ideas, I just practice typing on MonkeyType<img src="https://m
 
 ### Current Status:
 
-- 💼 Freshmen BSIT in <a href="https://neust.edu.ph/" target="_blank">NEUST</a>
+- 💼 Freshmen BSIT at <a href="https://neust.edu.ph/" target="_blank">NEUST</a>
 - 🌱 Newbie in Web Development
 
 -------------------------------------------
