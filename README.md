@@ -36,11 +36,7 @@ When I run out of ideas, I just practice typing on MonkeyType<img src="https://m
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan308&layout=compact&theme=dark)
  
 [//]: <> (Credits: bryan308)
-[//]: <> (Credits: Last edited on: 02/23/24)
-
-------------------------------------------- 
-
-Committer mode🟩
+[//]: <> (Credits: Last edited on: 05/12/24)
 
 -------------------------------------------
 
