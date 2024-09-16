@@ -5,7 +5,6 @@ When I run out of ideas, I just practice typing on MonkeyType <img src="https://
 
 ### Socials:
 
-<a href="https://linkedin.com/in/cedric-angulo-2632ab256"><img src="https://img.shields.io/badge/Cedric Angulo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://www.facebook.com/bryan.19.hp"><img src="https://img.shields.io/badge/Angulo Cedric-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://m.me/bryan.19.hp"><img src="https://img.shields.io/badge/Angulo Cedric-1877F2?style=for-the-badge&logo=messenger&logoColor=white"></a>
 
@@ -30,7 +29,7 @@ When I run out of ideas, I just practice typing on MonkeyType <img src="https://
 <!-- <img src="https://img.shields.io/badge/Reactjs-23272F?style=for-the-badge&logo=React&logoColor=58c4dc"> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan308&layout=compact&theme=light) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan308&theme=midnight-purple&hide_progress=true&cache_seconds=21600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan308&theme=midnight-purple&hide_progress=false&cache_seconds=21600)
 
 -------------------------------------------
 
