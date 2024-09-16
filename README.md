@@ -29,7 +29,7 @@ When I run out of ideas, I just practice typing on MonkeyType <img src="https://
 <!-- <img src="https://img.shields.io/badge/Reactjs-23272F?style=for-the-badge&logo=React&logoColor=58c4dc"> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan308&layout=compact&theme=light) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan308&theme=midnight-purple&hide_progress=false&cache_seconds=21600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan308&theme=midnight-purple&hide_progress=true&cache_seconds=21600)
 
 -------------------------------------------
 
