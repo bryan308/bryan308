@@ -1,5 +1,5 @@
 ![snake-graph](/github-user-contribution.svg)
- 
+
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Cedric Angulo**.
 When I run out of ideas, I just practice typing on MonkeyType <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
