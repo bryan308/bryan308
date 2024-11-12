@@ -35,5 +35,9 @@ When I run out of ideas, I just practice typing on MonkeyType <img src="https://
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=bryan308&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
 ### Stressed Dev Count
 ![Visitor Count](https://profile-counter.glitch.me/{bryan308}/count.svg)
