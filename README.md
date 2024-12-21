@@ -1,4 +1,4 @@
-****<div align="center">
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bryan308/bryan308/output/github-snake-dark.svg" />
