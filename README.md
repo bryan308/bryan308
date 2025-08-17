@@ -9,13 +9,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bryan308/bryan308/output/dark.svg"
+    srcset="https://raw.githubusercontent.com/bryan308/bryan308/breakout-output/dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/bryan308/bryan308/output/light.svg"
+    srcset="https://raw.githubusercontent.com/bryan308/bryan308/breakout-output/light.svg"
   />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/bryan308/bryan308/output/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/bryan308/bryan308/breakout-output/light.svg" />
 </picture>
 
 <img src="https://streak-stats.demolab.com?user=bryan308&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170">
