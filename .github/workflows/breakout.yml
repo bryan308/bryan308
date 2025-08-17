@@ -24,6 +24,14 @@ jobs:
         with:
           github_username: ${{ github.repository_owner }}
 
+      - name: Ensure breakout SVGs are in output directory
+        run: |
+          if [ -f output/light.svg ]; then echo "light.svg exists"; else echo "light.svg missing"; fi
+          if [ -f output/dark.svg ]; then echo "dark.svg exists"; else echo "dark.svg missing"; fi
+          # If the files are generated elsewhere, move them here
+          # Example: mv path/to/generated/light.svg output/light.svg
+          # Example: mv path/to/generated/dark.svg output/dark.svg
+
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
